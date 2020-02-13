@@ -1,0 +1,1319 @@
+11:29:18 **** Build of project standalone_bsp_0 ****
+make -k all 
+"Running Make include in psu_cortexa53_0/libsrc/avbuf_v2_2/src"
+make -C psu_cortexa53_0/libsrc/avbuf_v2_2/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/axipmon_v6_7/src"
+make -C psu_cortexa53_0/libsrc/axipmon_v6_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/axivdma_v6_6/src"
+make -C psu_cortexa53_0/libsrc/axivdma_v6_6/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/clockps_v1_1/src"
+make -C psu_cortexa53_0/libsrc/clockps_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src"
+make -C psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src"
+make -C psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/csi_v1_2/src"
+make -C psu_cortexa53_0/libsrc/csi_v1_2/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/csudma_v1_4/src"
+make -C psu_cortexa53_0/libsrc/csudma_v1_4/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src"
+make -C psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/dpdma_v1_1/src"
+make -C psu_cortexa53_0/libsrc/dpdma_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/dppsu_v1_1/src"
+make -C psu_cortexa53_0/libsrc/dppsu_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/emacps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/emacps_v3_9/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/gpiops_v3_5/src"
+make -C psu_cortexa53_0/libsrc/gpiops_v3_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/iicps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/iicps_v3_9/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ipipsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/ipipsu_v2_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/mipicsiss_v1_2/src"
+make -C psu_cortexa53_0/libsrc/mipicsiss_v1_2/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/pciepsu_v1_0/src"
+make -C psu_cortexa53_0/libsrc/pciepsu_v1_0/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/qspipsu_v1_9/src"
+make -C psu_cortexa53_0/libsrc/qspipsu_v1_9/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/resetps_v1_2/src"
+make -C psu_cortexa53_0/libsrc/resetps_v1_2/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/rtcpsu_v1_7/src"
+make -C psu_cortexa53_0/libsrc/rtcpsu_v1_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/scugic_v4_0/src"
+make -C psu_cortexa53_0/libsrc/scugic_v4_0/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/sdps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/sdps_v3_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/spips_v3_2/src"
+make -C psu_cortexa53_0/libsrc/spips_v3_2/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/standalone_v7_0/src"
+make -C psu_cortexa53_0/libsrc/standalone_v7_0/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ttcps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/ttcps_v3_9/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/uartps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/uartps_v3_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/usbpsu_v1_5/src"
+make -C psu_cortexa53_0/libsrc/usbpsu_v1_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/video_common_v4_6/src"
+make -C psu_cortexa53_0/libsrc/video_common_v4_6/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/vtc_v8_0/src"
+make -C psu_cortexa53_0/libsrc/vtc_v8_0/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/v_demosaic_v1_0/src"
+make -C psu_cortexa53_0/libsrc/v_demosaic_v1_0/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/v_gamma_lut_v1_0/src"
+make -C psu_cortexa53_0/libsrc/v_gamma_lut_v1_0/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/v_tpg_v8_1/src"
+make -C psu_cortexa53_0/libsrc/v_tpg_v8_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/zdma_v1_7/src"
+make -C psu_cortexa53_0/libsrc/zdma_v1_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make libs in psu_cortexa53_0/libsrc/avbuf_v2_2/src"
+make -C psu_cortexa53_0/libsrc/avbuf_v2_2/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling avbuf"
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xavbuf_hw.h:57,
+                 from xavbuf.h:58,
+                 from xavbuf_videoformats.c:52:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xavbuf_hw.h:57,
+                 from xavbuf_clk.h:53,
+                 from xavbuf_clk.c:49:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xavbuf_hw.h:57,
+                 from xavbuf.h:58,
+                 from xavbuf.c:52:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+aarch64-none-elf-ar: creating ../../../lib/libxil.a
+"Running Make libs in psu_cortexa53_0/libsrc/axipmon_v6_7/src"
+make -C psu_cortexa53_0/libsrc/axipmon_v6_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling axipmon"
+In file included from xaxipmon_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xaxipmon_hw.h:92,
+                 from xaxipmon.h:275,
+                 from xaxipmon.c:126:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xaxipmon_sinit.c:55:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xaxipmon_hw.h:92,
+                 from xaxipmon.h:275,
+                 from xaxipmon_selftest.c:58:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/axivdma_v6_6/src"
+make -C psu_cortexa53_0/libsrc/axivdma_v6_6/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling axivdma"
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xaxivdma_hw.h:79,
+                 from xaxivdma.h:315,
+                 from xaxivdma.c:77:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xaxivdma_hw.h:79,
+                 from xaxivdma_channel.c:80:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xaxivdma_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xaxivdma_hw.h:79,
+                 from xaxivdma.h:315,
+                 from xaxivdma_intr.c:57:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xaxivdma_selftest.c:49:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xaxivdma_hw.h:79,
+                 from xaxivdma.h:315,
+                 from xaxivdma_sinit.c:56:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/clockps_v1_1/src"
+make -C psu_cortexa53_0/libsrc/clockps_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling clockps"
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xclockps.h:69,
+                 from xclockps_mux.c:46:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xclockps.h:69,
+                 from xclockps_fixedfactor.c:46:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xclockps.h:69,
+                 from xclockps_divider.c:47:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xclockps.h:69,
+                 from xclockps_gate.c:46:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xclockps.h:69,
+                 from xclockps_pll.c:46:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xclockps.h:69,
+                 from xclockps_g.c:49:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xclockps.h:69,
+                 from xclockps.c:51:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xclockps.h:69,
+                 from xclockps_sinit.c:48:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src"
+make -C psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling coresightps_dcc"
+"Running Make libs in psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src"
+make -C psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling cpu_cortexa53"
+"Running Make libs in psu_cortexa53_0/libsrc/csi_v1_2/src"
+make -C psu_cortexa53_0/libsrc/csi_v1_2/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling csi"
+In file included from xcsi.c:50:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xcsi_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xcsi_intr.c:51:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xcsi_selftest.c:49:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xcsi_sinit.c:51:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/csudma_v1_4/src"
+make -C psu_cortexa53_0/libsrc/csudma_v1_4/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling csudma"
+In file included from xcsudma_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xcsudma_hw.h:58,
+                 from xcsudma.h:133,
+                 from xcsudma.c:58:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xcsudma_hw.h:58,
+                 from xcsudma.h:133,
+                 from xcsudma_sinit.c:50:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xcsudma_hw.h:58,
+                 from xcsudma.h:133,
+                 from xcsudma_selftest.c:51:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xcsudma_hw.h:58,
+                 from xcsudma.h:133,
+                 from xcsudma_intr.c:51:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src"
+make -C psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ddrcpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/dpdma_v1_1/src"
+make -C psu_cortexa53_0/libsrc/dpdma_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling dpdma"
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xdpdma_hw.h:62,
+                 from xdpdma.h:60,
+                 from xdpdma.c:51:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xdpdma_hw.h:62,
+                 from xdpdma.h:60,
+                 from xdpdma_sinit.c:51:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xdpdma_hw.h:62,
+                 from xdpdma.h:60,
+                 from xdpdma_intr.c:48:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xdpdma_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/dppsu_v1_1/src"
+make -C psu_cortexa53_0/libsrc/dppsu_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling dppsu"
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from ../../../include/sleep.h:52,
+                 from xdppsu.c:51:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+xdppsu.c: In function 'XDpPsu_CheckClockRecovery':
+xdppsu.c:489:6: warning: this statement may fall through [-Wimplicit-fallthrough=]
+   if (!(LaneStatus[0] &
+      ^
+xdppsu.c:494:2: note: here
+  case XDPPSU_LANE_COUNT_SET_1:
+  ^~~~
+xdppsu.c:495:6: warning: this statement may fall through [-Wimplicit-fallthrough=]
+   if (!(LaneStatus[0] &
+      ^
+xdppsu.c:499:2: note: here
+  default:
+  ^~~~~~~
+xdppsu.c: In function 'XDpPsu_CheckChannelEqualization':
+xdppsu.c:533:6: warning: this statement may fall through [-Wimplicit-fallthrough=]
+   if (!(LaneStatus[0] &
+      ^
+xdppsu.c:538:2: note: here
+  case XDPPSU_LANE_COUNT_SET_1:
+  ^~~~
+xdppsu.c:551:6: warning: this statement may fall through [-Wimplicit-fallthrough=]
+   if (!(LaneStatus[0] &
+      ^
+xdppsu.c:556:2: note: here
+  case XDPPSU_LANE_COUNT_SET_1:
+  ^~~~
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xdppsu_hw.h:56,
+                 from xdppsu.h:65,
+                 from xdppsu_sinit.c:49:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xdppsu_hw.h:56,
+                 from xdppsu.h:65,
+                 from xdppsu_selftest.c:52:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xdppsu_hw.h:56,
+                 from xdppsu.h:65,
+                 from xdppsu_intr.c:49:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xdppsu_hw.h:56,
+                 from xdppsu_serdes.h:49,
+                 from xdppsu_serdes.c:46:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xdppsu_hw.h:56,
+                 from xdppsu.h:65,
+                 from xdppsu_edid.c:51:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xdppsu_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xdppsu_hw.h:56,
+                 from xdppsu.h:65,
+                 from xdppsu_spm.c:51:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/emacps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/emacps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling emacps"
+In file included from xemacps_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xemacps_hw.h:73,
+                 from xemacps.h:349,
+                 from xemacps.c:61:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xemacps_hw.h:73,
+                 from xemacps.h:349,
+                 from xemacps_sinit.c:51:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xemacps_hw.h:73,
+                 from xemacps.h:349,
+                 from xemacps_intr.c:63:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xemacps_hw.h:73,
+                 from xemacps.h:349,
+                 from xemacps_control.c:56:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xemacps_hw.h:73,
+                 from xemacps_bdring.c:66:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xemacps_hw.h:73,
+                 from xemacps_hw.c:50:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/gpiops_v3_5/src"
+make -C psu_cortexa53_0/libsrc/gpiops_v3_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling gpiops"
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xgpiops_hw.h:64,
+                 from xgpiops.h:125,
+                 from xgpiops.c:65:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xgpiops_hw.h:64,
+                 from xgpiops.h:125,
+                 from xgpiops_sinit.c:54:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xgpiops_hw.h:64,
+                 from xgpiops.h:125,
+                 from xgpiops_selftest.c:58:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xgpiops_hw.h:64,
+                 from xgpiops_hw.c:57:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xgpiops_hw.h:64,
+                 from xgpiops.h:125,
+                 from xgpiops_intr.c:63:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xgpiops_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/iicps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/iicps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling iicps"
+In file included from xiicps_sinit.c:52:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xiicps_hw.h:62,
+                 from xiicps.h:207,
+                 from xiicps_selftest.c:53:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xiicps_hw.h:62,
+                 from xiicps.h:207,
+                 from xiicps_intr.c:51:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xiicps_hw.h:62,
+                 from xiicps.h:207,
+                 from xiicps_master.c:72:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xiicps_hw.h:62,
+                 from xiicps_hw.c:52:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xiicps_hw.h:62,
+                 from xiicps.h:207,
+                 from xiicps_slave.c:51:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xiicps_hw.h:62,
+                 from xiicps.h:207,
+                 from xiicps_options.c:62:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xiicps_hw.h:62,
+                 from xiicps.h:207,
+                 from xiicps.c:61:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xiicps_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/ipipsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/ipipsu_v2_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ipipsu"
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xipipsu.h:104,
+                 from xipipsu.c:54:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xipipsu_sinit.c:50:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xipipsu_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/mipicsiss_v1_2/src"
+make -C psu_cortexa53_0/libsrc/mipicsiss_v1_2/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling mipicsiss"
+In file included from xcsiss.c:52:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xcsiss_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xcsiss_intr.c:54:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from ../../../include/xcsi_hw.h:59,
+                 from ../../../include/xcsi.h:135,
+                 from xcsiss.h:164,
+                 from xcsiss_selftest.c:49:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xcsiss_sinit.c:50:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/pciepsu_v1_0/src"
+make -C psu_cortexa53_0/libsrc/pciepsu_v1_0/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling pciepsu"
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xpciepsu.h:79,
+                 from xpciepsu.c:45:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xpciepsu.h:79,
+                 from xpciepsu_sinit.c:44:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xpciepsu.h:79,
+                 from xpciepsu_caps.c:45:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xpciepsu_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xpciepsu.h:79,
+                 from xpciepsu_ep.h:78,
+                 from xpciepsu_ep.c:44:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/qspipsu_v1_9/src"
+make -C psu_cortexa53_0/libsrc/qspipsu_v1_9/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling qspipsu"
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xqspipsu_hw.h:68,
+                 from xqspipsu.h:181,
+                 from xqspipsu.c:91:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xqspipsu_hw.h:68,
+                 from xqspipsu.h:181,
+                 from xqspipsu_sinit.c:51:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xqspipsu_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xqspipsu_hw.h:68,
+                 from xqspipsu.h:181,
+                 from xqspipsu_options.c:69:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/resetps_v1_2/src"
+make -C psu_cortexa53_0/libsrc/resetps_v1_2/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling resetps"
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xresetps_hw.h:53,
+                 from xresetps.h:69,
+                 from xresetps_g.c:53:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xresetps_hw.h:53,
+                 from xresetps.h:69,
+                 from xresetps.c:52:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xresetps_hw.h:53,
+                 from xresetps.h:69,
+                 from xresetps_sinit.c:51:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/rtcpsu_v1_7/src"
+make -C psu_cortexa53_0/libsrc/rtcpsu_v1_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling rtcpsu"
+In file included from xrtcpsu_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xrtcpsu.h:139,
+                 from xrtcpsu.c:73:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xrtcpsu.h:139,
+                 from xrtcpsu_sinit.c:60:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xrtcpsu.h:139,
+                 from xrtcpsu_selftest.c:57:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xrtcpsu.h:139,
+                 from xrtcpsu_intr.c:59:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/scugic_v4_0/src"
+make -C psu_cortexa53_0/libsrc/scugic_v4_0/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling scugic"
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xscugic.h:197,
+                 from xscugic_intr.c:83:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xscugic.h:197,
+                 from xscugic_hw.c:88:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xscugic_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xscugic.h:197,
+                 from xscugic.c:134:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xscugic_sinit.c:56:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xscugic.h:197,
+                 from xscugic_selftest.c:54:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/sdps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/sdps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling sdps"
+In file included from ../../../include/xil_printf.h:12,
+                 from xsdps.h:163,
+                 from xsdps_options.c:83:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xsdps_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from xsdps.h:163,
+                 from xsdps.c:104:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from xsdps.h:163,
+                 from xsdps_sinit.c:53:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/spips_v3_2/src"
+make -C psu_cortexa53_0/libsrc/spips_v3_2/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling spips"
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xspips_hw.h:71,
+                 from xspips.h:268,
+                 from xspips_options.c:59:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xspips_hw.h:71,
+                 from xspips_hw.c:55:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xspips_hw.h:71,
+                 from xspips.h:268,
+                 from xspips.c:81:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xspips_hw.h:71,
+                 from xspips.h:268,
+                 from xspips_sinit.c:52:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xspips_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xspips_hw.h:71,
+                 from xspips.h:268,
+                 from xspips_selftest.c:55:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/standalone_v7_0/src"
+make -C psu_cortexa53_0/libsrc/standalone_v7_0/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling standalone ARMv8 64 bit"
+In file included from xil_printf.h:12,
+                 from xil_io.h:61,
+                 from xil_util.c:47:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xil_printf.h:12,
+                 from xil_io.h:61,
+                 from xil_cache.c:88:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from inbyte.c:1:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xil_printf.h:12,
+                 from xil_io.h:61,
+                 from xil_testio.c:48:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xil_printf.h:12,
+                 from xil_io.h:61,
+                 from xil_io.c:51:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xil_printf.h:12,
+                 from xil_io.h:61,
+                 from xil_testmem.c:47:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xil_printf.h:12,
+                 from write.c:32:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xil_printf.h:12,
+                 from xil_io.h:61,
+                 from xil_sleeptimer.c:49:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xil_sleeptimer.c:51:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xtime_l.h:60,
+                 from xtime_l.c:52:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xtime_l.c:52:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from outbyte.c:1:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xil_printf.h:12,
+                 from xil_io.h:61,
+                 from xil_sleepcommon.c:46:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xil_printf.h:12,
+                 from xil_printf.c:8:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xil_printf.h:12,
+                 from xil_io.h:61,
+                 from sleep.h:52,
+                 from sleep.c:58:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from sleep.c:59:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xil_printf.h:12,
+                 from xil_io.h:61,
+                 from xplatform_info.c:60:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xil_printf.h:12,
+                 from read.c:32:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xil_printf.h:12,
+                 from print.c:20:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xil-crt0.S:54:
+../../../include/xparameters.h:26:26: warning: missing whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from boot.S:91:
+../../../include/xparameters.h:26:26: warning: missing whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from translation_table.S:86:
+../../../include/xparameters.h:26:26: warning: missing whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling sysmonpsu"
+In file included from xsysmonpsu_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xsysmonpsu.h:196,
+                 from xsysmonpsu.c:74:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xsysmonpsu.h:196,
+                 from xsysmonpsu_sinit.c:53:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xsysmonpsu.h:196,
+                 from xsysmonpsu_selftest.c:57:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xsysmonpsu.h:196,
+                 from xsysmonpsu_intr.c:48:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/ttcps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/ttcps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ttcps"
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xttcps_hw.h:65,
+                 from xttcps.h:116,
+                 from xttcps.c:68:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xttcps_hw.h:65,
+                 from xttcps.h:116,
+                 from xttcps_sinit.c:50:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xttcps_hw.h:65,
+                 from xttcps.h:116,
+                 from xttcps_selftest.c:51:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xttcps_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xttcps_hw.h:65,
+                 from xttcps.h:116,
+                 from xttcps_options.c:52:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/uartps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/uartps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling uartps"
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xuartps_hw.h:71,
+                 from xuartps.h:187,
+                 from xuartps_intr.c:52:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xuartps_hw.h:71,
+                 from xuartps.h:187,
+                 from xuartps_options.c:54:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xuartps_sinit.c:52:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xuartps_hw.h:71,
+                 from xuartps_hw.c:49:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xuartps_hw.h:71,
+                 from xuartps.h:187,
+                 from xuartps.c:57:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xuartps_hw.h:71,
+                 from xuartps.h:187,
+                 from xuartps_selftest.c:51:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xuartps_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/usbpsu_v1_5/src"
+make -C psu_cortexa53_0/libsrc/usbpsu_v1_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling usbpsu"
+In file included from xusbpsu.h:81,
+                 from xusbpsu.c:56:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xusbpsu.h:81,
+                 from xusbpsu_endpoint.h:62,
+                 from xusbpsu_endpoint.c:52:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xusbpsu_sinit.c:49:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xusbpsu.h:81,
+                 from xusbpsu_endpoint.h:62,
+                 from xusbpsu_controltransfers.c:50:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xusbpsu_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xusbpsu.h:81,
+                 from xusbpsu_hibernation.c:52:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xusbpsu.h:81,
+                 from xusbpsu_intr.c:57:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/video_common_v4_6/src"
+make -C psu_cortexa53_0/libsrc/video_common_v4_6/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling video_common"
+In file included from ../../../include/xil_printf.h:12,
+                 from xvidc.h:91,
+                 from xvidc.c:74:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from xvidc.h:91,
+                 from xvidc_timings_table.c:63:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from xvidc.h:91,
+                 from xvidc_edid_ext.h:39,
+                 from xvidc_edid_ext.c:72:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from xvidc.h:91,
+                 from xvidc_edid.h:66,
+                 from xvidc_edid.c:57:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from xvidc.h:91,
+                 from xvidc_edid_ext.h:39,
+                 from xvidc_parse_edid.c:56:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/vtc_v8_0/src"
+make -C psu_cortexa53_0/libsrc/vtc_v8_0/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling video timing controller"
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xvtc_hw.h:164,
+                 from xvtc.h:312,
+                 from xvtc.c:186:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xvtc_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xvtc_hw.h:164,
+                 from xvtc.h:312,
+                 from xvtc_intr.c:124:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xvtc_hw.h:164,
+                 from xvtc.h:312,
+                 from xvtc_selftest.c:52:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xvtc_hw.h:164,
+                 from xvtc.h:312,
+                 from xvtc_sinit.c:60:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/v_demosaic_v1_0/src"
+make -C psu_cortexa53_0/libsrc/v_demosaic_v1_0/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling v_demosaic"
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xv_demosaic.h:20,
+                 from xv_demosaic.c:9:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xv_demosaic_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xv_demosaic_sinit.c:11:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/v_gamma_lut_v1_0/src"
+make -C psu_cortexa53_0/libsrc/v_gamma_lut_v1_0/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling v_gamma_lut"
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xv_gamma_lut.h:20,
+                 from xv_gamma_lut.c:9:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xv_gamma_lut_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xv_gamma_lut_sinit.c:11:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/v_tpg_v8_1/src"
+make -C psu_cortexa53_0/libsrc/v_tpg_v8_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling v_tpg"
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xv_tpg.h:20,
+                 from xv_tpg.c:9:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xv_tpg_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from xv_tpg_sinit.c:11:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+"Running Make libs in psu_cortexa53_0/libsrc/zdma_v1_7/src"
+make -C psu_cortexa53_0/libsrc/zdma_v1_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling zdma"
+In file included from xzdma_g.c:36:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xzdma_hw.h:56,
+                 from xzdma.h:148,
+                 from xzdma.c:58:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xzdma_hw.h:56,
+                 from xzdma.h:148,
+                 from xzdma_sinit.c:48:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xzdma_hw.h:56,
+                 from xzdma.h:148,
+                 from xzdma_selftest.c:49:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+In file included from ../../../include/xil_printf.h:12,
+                 from ../../../include/xil_io.h:61,
+                 from xzdma_hw.h:56,
+                 from xzdma.h:148,
+                 from xzdma_intr.c:51:
+../../../include/xparameters.h:26:26: warning: ISO C99 requires whitespace after the macro name
+ #define XPS_BOARD_GENESYS-ZU-3EG
+                          ^
+'Finished building libraries'
+
+11:30:05 Build Finished (took 47s.135ms)
+

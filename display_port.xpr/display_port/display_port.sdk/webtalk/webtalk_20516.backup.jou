@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# 
+# Start of session at: Wed Feb  5 23:22:54 2020
+# Process ID: 20516
+# Current directory: C:/GIT/Ultra96V2_DisplayPort/display_port/display_port.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/GIT/Ultra96V2_DisplayPort/display_port/display_port.sdk/webtalk/webtalk.log
+# Journal file: C:/GIT/Ultra96V2_DisplayPort/display_port/display_port.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
